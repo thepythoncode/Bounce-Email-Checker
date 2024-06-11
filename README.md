@@ -14,6 +14,7 @@ This tool is able to clean your email list from a txt file.
 3. **25000 For $60**
 4. **50000 For $100**
 5. **100000 For $190**
+6. **100% Accurate Checking**
 
 Contact for custom list:
 - **Telegram**: [@alexrony21](https://t.me/alexrony21)
