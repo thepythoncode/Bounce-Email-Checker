@@ -1,6 +1,6 @@
 # Bounce Email Checker
 
-This email is able to clean your email list from a txt file.
+This tool is able to clean your email list from a txt file.
 
 ## Features:
 1. **Support All The Domain**
